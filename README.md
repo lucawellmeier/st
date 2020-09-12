@@ -7,3 +7,4 @@ Dependencies:
 - [Ioveska font](https://aur.archlinux.org/packages/ttf-iosevka)
 
 Installed patches (can be found on st's homepage):
+- workingdir
