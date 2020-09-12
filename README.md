@@ -1,6 +1,6 @@
 # st
 
-My patched version of [st](https://st.suckless.org).
+My patched version of [st 0.8.4](https://st.suckless.org).
 
 Dependencies:
 - Xorg
