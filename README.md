@@ -10,3 +10,4 @@ Installed patches (can be found on st's homepage):
 - anysize
 - newterm
 - scrollback
+- workingdir
